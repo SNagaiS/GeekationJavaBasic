@@ -7,7 +7,7 @@ public class Main {
 		double height = 122.22;
 		GeekIntroduction.greeting(age, height);
 
-		GeekIntroduction.specialSkill(1, 20);
+		GeekIntroduction.specialSkill(1, 50);
 	}
 
 }
